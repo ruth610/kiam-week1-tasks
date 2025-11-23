@@ -1,4 +1,4 @@
-action-msgs==1.2.2
+
 action-tutorials-interfaces==0.20.6
 action-tutorials-py==0.20.6
 actionlib-msgs==4.9.0
@@ -153,8 +153,5 @@ turtlesim==1.4.3
 unique-identifier-msgs==2.2.1
 urdfdom-py==1.2.1
 visualization-msgs==4.9.0
-pytest==7.4.0
-black==24.1.0
-flake8==6.0.0
-isort==5.12.0
+
 
